@@ -1,9 +1,9 @@
-razorpay integration 
-GIT CLONE THE ABOVE REPOSITORY 
+RAZORPAY INTEGRATION 
 
-run the backend service : npm run server 
+->GIT CLONE THE ABOVE REPOSITORY 
 
+->run the backend service : npm run server 
 
-run the frontend service : npm run dev 
+->run the frontend service : npm run dev 
 
-perform the rrquired purchase 
+->perform the required purchase 
